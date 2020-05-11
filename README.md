@@ -3,7 +3,7 @@ playbook checker
 ---
 # Ansible Playbook - check Security Compliance on Linux servers
 - name: "Playing with Ansible" \
-  hosts: servers \
+  hosts: esxcentos7:esxcentos8:esxubuntu \
   user: ransible \
   sudo: yes \
   connection: ssh \
