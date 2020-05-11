@@ -1,7 +1,7 @@
 # checker
 playbook checker
 ---
-# Ansible Playbook - check Security Compliance on Linux servers
+# Ansible Playbook - check Security Compliance on Linux servers \
 - name: "Playing with Ansible" \
   hosts: esxcentos7:esxcentos8:esxubuntu \
   user: ransible \
