@@ -1,8 +1,8 @@
 # checker
 playbook checker
 ---
-# Ansible Playbook - check Security Compliance on Linux servers 
-- name: "Playing with Ansible"
+# Ansible Playbook - check Security Compliance on Linux servers \
+- name: "Playing with Ansible" \
   hosts: servers
   user: ransible
   sudo: yes
